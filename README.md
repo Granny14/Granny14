@@ -3,6 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ntshuxeko+Mathonsi!⭐⭐+;+I'm+a+Full-Stack+Developer👩🏻‍💻;" />
 </h1>
 
+# 💫 About Me:
+🔭 A little About me<br>👯 I am a full-stack Developer intern at Capaciti<br>🌱 I’m currently learning other programing languages python, java, html &css, power bi<br>💬 Reach me at  mathonsigranny@gmail.com<br>
 
 
 ## 🌐 Socials:
@@ -18,4 +20,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Granny14&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
